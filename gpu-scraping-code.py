@@ -13,7 +13,7 @@ urls = [ # List with all urls.
     'https://www.amazon.es/ASUS-Gaming-TUF-RX6900XT-O16G-GAMING-Radeon-GDDR6/dp/B08BQX8VP3/ref=sr_1_4?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=36CA57X3D8TEB&keywords=amd+tarjeta+gr%C3%A1fica+rx&qid=1668684457&qu=eyJxc2MiOiIxLjgwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&refinements=p_72%3A831280031%2Cp_36%3A1323860031&rnid=1323854031&s=computers&sprefix=amd+tarjeta+gr%C3%A1fica+rx%2Ccomputers%2C65&sr=1-4'
 ]
 names = [ # List with custom names. I don't really like using the amazon name and each string has the name in a different position.
-    'GTX 3090: ',               # We could make a list and find it in scraping the amazon title, but to make a list for it just do this.
+    'GTX 3090: ',               #  # We could make a list of possible titles like this and find the substr in the amazon title, but it would make no sense :)
     'GTX 3080 Ti: ',
     'GTX 3070 Ti: ',
     'GTX 3060 Ti: ',
