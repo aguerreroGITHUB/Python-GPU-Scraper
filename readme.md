@@ -5,4 +5,4 @@ It is not something too hard, but with a little of imagination you can figure ou
 
 ## Output
 
-![Alt text](https://github.com/aguerreroGITHUB/Python-GPU-Scraper/blob/main/output.png?raw=true "Optional Title")
+![Alt text](https://github.com/aguerreroGITHUB/Python-GPU-Scraper/blob/main/code_output.png?raw=true "Optional Title")
